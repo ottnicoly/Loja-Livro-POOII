@@ -35,8 +35,8 @@ public class Main {
         }
 
         //Adicionar Autor ->
-        Autor autor = new Autor("Casey McQuiston","estadunidense");
-        autordao.inserir(autor);
+//        Autor autor = new Autor("Casey McQuiston","estadunidense");
+//        autordao.inserir(autor);
 
         //Atualizar Autor ->
 //        Autor autoratualizar = new Autor("Coleen Hoover","Brasil");
@@ -53,8 +53,8 @@ public class Main {
 //        --------------------------------------
 
         //Adicionar Livro ->
-        Livro livro = new Livro(1,"VERMELHO BRANCO E SANGUE AZUL",2019,1);
-        livrodao.inserir(livro);
+//        Livro livro = new Livro(1,"VERMELHO BRANCO E SANGUE AZUL",2019,1);
+//        livrodao.inserir(livro);
 
         //Atualizar Livro ->
 //        Livro livroatualizar = new Livro(2,"É Assim que Acaba",2016,10);
