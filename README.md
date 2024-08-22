@@ -1,4 +1,4 @@
-Exercício 1: Modelagem de uma Relação 1 para N
+**Exercício 1: Modelagem de uma Relação 1 para N**
 
 Contexto: Uma loja de livros online deseja gerenciar seus livros e autores. Cada autor pode ter vários livros associados a ele, mas cada livro só pode ter um autor.
 
@@ -31,3 +31,5 @@ Relacionamento:
 Um autor pode ter vários livros (1):
 Um autor pode escrever vários livros, mas cada livro é escrito por um único autor.
 A tabela Livro possui uma chave estrangeira ID_Autor que referencia a tabela Autor.
+
+**Trabalho 4° semestre de Engenharia de Software**
